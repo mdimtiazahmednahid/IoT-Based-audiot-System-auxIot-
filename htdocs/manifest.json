@@ -1,0 +1,24 @@
+{
+    "name": "AuxIoT",
+    "short_name": "AuxIoT",
+    "description": "Self-hosted IoT audio control system",
+    "start_url": "https://aiotamp.rf.gd/",
+    "scope": "https://aiotamp.rf.gd/",
+    "display": "standalone",
+    "background_color": "#07090d",
+    "theme_color": "#090b10",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

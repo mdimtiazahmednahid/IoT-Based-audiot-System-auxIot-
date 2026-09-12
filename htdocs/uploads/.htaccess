@@ -1,0 +1,9 @@
+Options -Indexes
+
+<FilesMatch "\.(php|phtml|phar|cgi|pl|asp|aspx|jsp|sh|bat|cmd)$">
+    Require all denied
+</FilesMatch>
+
+<FilesMatch "\.mp3$">
+    Require all granted
+</FilesMatch>
